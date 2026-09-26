@@ -304,11 +304,6 @@ hash = "9930319d61bd9a04b741cb551b2c852ded93406f32e89eeae2a346dd08ce5c59"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
-metafile = true
-
-[[files]]
 file = "mods/lava-particles-more.pw.toml"
 hash = "bf6331e5b85a06098271d87e0ef94bb4e49991d9ca7ee3376d4e481319bd8fe6"
 metafile = true
@@ -508,18 +503,8 @@ hash = "a375b945d21e693470cf646c6ccf37d2d3475a6d4fd4ada6fb710d5be4bcaa52"
 metafile = true
 
 [[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "6475037d680289b4cf8bca4e375b3ecb9c9d6d90dd785b9bd085a42b9c84b795"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "461adc31ce2b89cafc5ad2e846b482c68529231ac1d907e39ec62458b22e6b3e"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
-hash = "b82e3d69f134d7e925b55579f6bde47a7da1d9e57ad41f5959e27e3fbcb3827d"
+hash = "869af67848bf3b9ba4384bc9fb0cbe303d35263bd8de75eeabcba796edf4d7c6"
 metafile = true
 
 [[files]]
