@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9645e76b2915aa43b0918e1ef20e1c01b64ba9073e35c8bcd70cf34af8ab604e"
+hash = "774fd0adcb4fdc2e8f90991fe3515e68f21d41a10b9daa8094bb2f7b78790df6"
 metafile = true
 
 [[files]]
@@ -182,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/hydro-upgrade.pw.toml"
 hash = "2453082aaf953ee41c0f7d05374bb87c8ca3764e205dfcbfb371421c9bb0f13d"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "891d9d37315076b47e192aaee1092acdc882358a19b92f58aefee68cca41bf31"
 metafile = true
 
 [[files]]
@@ -380,6 +385,11 @@ hash = "efd494b7f5537c402721242079ac66fe49f0b45ed0f9877faa16d754c1ae49bc"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "2662ec2faebc8a19d1608d9ad329991596f84ce6a3abb568f572cf30ae4b0276"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
 metafile = true
@@ -500,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "869af67848bf3b9ba4384bc9fb0cbe303d35263bd8de75eeabcba796edf4d7c6"
+hash = "311d23361c153f7adcad260255fe3b2062f1c8e67c75ee088e0b61855e9d9134"
 metafile = true
 
 [[files]]
@@ -549,6 +559,11 @@ hash = "684c15273ce9b9afbe4903609de9276b45be4a54362f1bd0643de500f1df5dc5"
 metafile = true
 
 [[files]]
+file = "mods/transparentui.pw.toml"
+hash = "a930a481d1bfbe5a022d3f1eea7e381caac7a74baceda947ed2560b6c1169c25"
+metafile = true
+
+[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "5f66e0f764c4afcc9b92f97dba46c647941f586b433d0991a6229aedcd700751"
 metafile = true
@@ -576,6 +591,11 @@ metafile = true
 [[files]]
 file = "mods/wakes.pw.toml"
 hash = "f47b75ab81d6334bf93962de5537a7889a80ac587a833cf582262b8694b135b0"
+metafile = true
+
+[[files]]
+file = "mods/wi-zoom.pw.toml"
+hash = "d8a135b5aa9b60af3b2acf0862274175da9f2ad06500deabd8e9dee85f2772e4"
 metafile = true
 
 [[files]]

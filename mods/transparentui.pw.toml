@@ -1,0 +1,8 @@
+name = "transparentui"
+filename = "share"
+side = "both"
+
+[download]
+url = "https://vanillatweaks.net/share#AZoSEi"
+hash-format = "sha256"
+hash = "beca9825330abbe3a0a455a172d75bc4c038c10123af9471abc6e27b6a0b2540"
