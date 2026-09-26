@@ -493,11 +493,6 @@ hash = "7402d47044e86ece17340f7ac5b8e02f5e6370f3551d3abb655d7a0ee0d5225f"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "f1bfac1c5060b9e0ec9166de25bce8305d16dee48fb31583380567c37ee6b349"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "e35593590fe988653baebae4638f6c93b5d822351274955cc1288b34fe5429fe"
 metafile = true
