@@ -618,6 +618,10 @@ hash = "bc30fac7da38fd880d576764ced8f36d6ff3c3979c0b74adb3db2ba4d10b94c4"
 metafile = true
 
 [[files]]
+file = "resourcepacks/VanillaTweaks_r640037_MC26.3.x.zip"
+hash = "baaf4bd8cf51e9c5c8d65251d5c9f3104c6df70d5215fb9d1dc0f707fbd5c708"
+
+[[files]]
 file = "resourcepacks/bare-bones.pw.toml"
 hash = "7ad01ea25a9820861f58d795cc9a14442447f5a8c5660007aa30e4d518c6fb13"
 metafile = true
@@ -675,11 +679,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/shinier-tools.pw.toml"
 hash = "bac718766b6594dcb00d2a5e78ca10ff434ff29257a2fb21d78c02e534863122"
-metafile = true
-
-[[files]]
-file = "resourcepacks/transparentui.pw.toml"
-hash = "b032a84b83388e5fffa5da318c09ee1d8fac0d574c1d2db2b1dfbc1c246c1a14"
 metafile = true
 
 [[files]]
