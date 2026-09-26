@@ -493,6 +493,11 @@ hash = "abde622f6570b0b4c5ba50c6f329c174d3f8f82de3cd29523c0064b0f9d9987c"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "66e1ed3e329e3ffa72a59acf74fae153157e6fb7d836afedb687b61ec2d8113a"
+metafile = true
+
+[[files]]
 file = "mods/the-afterdark.pw.toml"
 hash = "d44d76c2230e3f752f7d6ec914eb383e01bebc044bae2ed4102c421b6ed14aab"
 metafile = true
