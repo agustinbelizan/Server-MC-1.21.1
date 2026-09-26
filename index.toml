@@ -6,6 +6,10 @@ hash = "3fea159faa74d2a69390f62d770aa878429dc1dbf6dd6d590ee356d6719d1973"
 metafile = true
 
 [[files]]
+file = "mods/WI-Zoom-1.7-MC1.21.1.jar"
+hash = "c6748e92f87f8b0521e604fa9de8e7d938c7866efb2de734fa441aa0ca12da87"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "5285ba249b00d0d12a3cd1f64a5536e7618770dee31d3d240f9d4345ef69f888"
 metafile = true
@@ -591,11 +595,6 @@ metafile = true
 [[files]]
 file = "mods/wakes.pw.toml"
 hash = "f47b75ab81d6334bf93962de5537a7889a80ac587a833cf582262b8694b135b0"
-metafile = true
-
-[[files]]
-file = "mods/wi-zoom.pw.toml"
-hash = "d8a135b5aa9b60af3b2acf0862274175da9f2ad06500deabd8e9dee85f2772e4"
 metafile = true
 
 [[files]]
