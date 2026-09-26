@@ -254,11 +254,6 @@ hash = "8e54aa67b2e446ba49f4c0a877a87b9e22a72f61e30e5d9b650f97b5c0f335a4"
 metafile = true
 
 [[files]]
-file = "mods/immersive-weather-renewed.pw.toml"
-hash = "d8ddb02d5c6d8bd090001a0b0d72d597cd6dde3068438366eea719327f3fbe14"
-metafile = true
-
-[[files]]
 file = "mods/immersivemc.pw.toml"
 hash = "7ce8cb148f4596a985af93ee0004e2be2062f4ec3a23ef1d62f8fba40c5b5d60"
 metafile = true
@@ -366,11 +361,6 @@ metafile = true
 [[files]]
 file = "mods/moogs-structure-lib.pw.toml"
 hash = "efd494b7f5537c402721242079ac66fe49f0b45ed0f9877faa16d754c1ae49bc"
-metafile = true
-
-[[files]]
-file = "mods/moonlight.pw.toml"
-hash = "2662ec2faebc8a19d1608d9ad329991596f84ce6a3abb568f572cf30ae4b0276"
 metafile = true
 
 [[files]]
