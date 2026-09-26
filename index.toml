@@ -563,11 +563,6 @@ hash = "684c15273ce9b9afbe4903609de9276b45be4a54362f1bd0643de500f1df5dc5"
 metafile = true
 
 [[files]]
-file = "mods/transparentui.pw.toml"
-hash = "a930a481d1bfbe5a022d3f1eea7e381caac7a74baceda947ed2560b6c1169c25"
-metafile = true
-
-[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "5f66e0f764c4afcc9b92f97dba46c647941f586b433d0991a6229aedcd700751"
 metafile = true
@@ -680,6 +675,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/shinier-tools.pw.toml"
 hash = "bac718766b6594dcb00d2a5e78ca10ff434ff29257a2fb21d78c02e534863122"
+metafile = true
+
+[[files]]
+file = "resourcepacks/transparentui.pw.toml"
+hash = "b032a84b83388e5fffa5da318c09ee1d8fac0d574c1d2db2b1dfbc1c246c1a14"
 metafile = true
 
 [[files]]
