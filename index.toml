@@ -583,11 +583,6 @@ hash = "bc30fac7da38fd880d576764ced8f36d6ff3c3979c0b74adb3db2ba4d10b94c4"
 metafile = true
 
 [[files]]
-file = "resourcepacks/bare-bones.pw.toml"
-hash = "7ad01ea25a9820861f58d795cc9a14442447f5a8c5660007aa30e4d518c6fb13"
-metafile = true
-
-[[files]]
 file = "resourcepacks/enchanted-books-re-covered.pw.toml"
 hash = "fc336bb66bfb726bd8388c2b36cc72b59c1a40c5fff9d99c2ef0e41ab4c75d03"
 metafile = true
@@ -635,6 +630,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/icon-fresh.pw.toml"
 hash = "4eac41dec26bd3e8b0298f1753d8888c60c0dfd0f0dc40b04a54144e66b7fe07"
+metafile = true
+
+[[files]]
+file = "resourcepacks/plastic-texture-pack.pw.toml"
+hash = "ae270692feb88e7ebd1670a6d674d3d229215af1dd5df089d239f008e5bbcfb9"
 metafile = true
 
 [[files]]

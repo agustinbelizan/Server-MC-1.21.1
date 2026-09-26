@@ -1,0 +1,13 @@
+name = "Plastic Texture Pack"
+filename = "Plastic Texture Pack.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/meEXwbr9/versions/LwuCzSwX/Plastic%20Texture%20Pack.zip"
+hash-format = "sha512"
+hash = "8d377128633b5cbd90c41194c559f523f3341b043fb940c5e2e2dabe1b7cf011ff253c6270d58fe1617798e40feb5a14e551ad11914b3e4c249c6da744153634"
+
+[update]
+[update.modrinth]
+mod-id = "meEXwbr9"
+version = "LwuCzSwX"
