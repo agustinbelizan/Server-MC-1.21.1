@@ -1,0 +1,13 @@
+name = "Yet Another Gravestone Mod [YAGM]"
+filename = "yagm-1.21.1-0.1.3-FABRIC.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lkwjObIy/versions/ccUKNr5f/yagm-1.21.1-0.1.3-FABRIC.jar"
+hash-format = "sha512"
+hash = "60f75082fee14b301b946878a8d8507565edf54000aaa37970187d8bdd103c5c59081731f5d9f19bf1ca46fc0ba82639f24b763ee08743a3fa2cbe5a738e4614"
+
+[update]
+[update.modrinth]
+mod-id = "lkwjObIy"
+version = "ccUKNr5f"

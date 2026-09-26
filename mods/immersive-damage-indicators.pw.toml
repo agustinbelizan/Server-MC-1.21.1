@@ -1,0 +1,13 @@
+name = "Immersive Damage Indicators"
+filename = "immersivedamageindicators-fabric-1.0.0-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tTKSJOdG/versions/szHVCzy1/immersivedamageindicators-fabric-1.0.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "c23f3d7a4aca8b9b5f966c51cc843790300b92ca7be7eded494c706486c4fd5866a0e2c6e881bf32bc40d94989a18d14cc7c157f9782f73a495832f8ec4add8d"
+
+[update]
+[update.modrinth]
+mod-id = "tTKSJOdG"
+version = "szHVCzy1"

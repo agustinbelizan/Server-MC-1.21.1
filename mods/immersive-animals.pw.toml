@@ -1,0 +1,13 @@
+name = "Immersive Animals"
+filename = "ImmersiveAnimals-1.1.0-Fabric-1.21.1-release.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/87F3C8QL/versions/x4Mc5P8y/ImmersiveAnimals-1.1.0-Fabric-1.21.1-release.jar"
+hash-format = "sha512"
+hash = "cecc4fc8bb2fe5b2697bbfc24169dfa8c32d29f8cb2c3d773227be64daf3f136a4a967f1a7ebe369ee963091c32cec6b0542d61e60dd1ed6dd156555e4779717"
+
+[update]
+[update.modrinth]
+mod-id = "87F3C8QL"
+version = "x4Mc5P8y"

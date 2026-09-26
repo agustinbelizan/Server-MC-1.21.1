@@ -1,0 +1,16 @@
+name = "Server MC 1.21.1"
+author = "Agustin Belizan"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "41dae660fe3db8f61146f394c55e20822a3a1b6258e2c7bbb358915fd28b1af1"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "1.21.1"
+
+[options]
+acceptable-game-versions = []

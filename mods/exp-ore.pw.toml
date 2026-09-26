@@ -1,0 +1,13 @@
+name = "Exp Ore"
+filename = "ExpOre-1.21.1-0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1HwCh5vX/versions/REXdhwCd/ExpOre-1.21.1-0.4.jar"
+hash-format = "sha512"
+hash = "0c98de9c4a7c1a315123f13d4376b9617413a8572bf787426f07b3a197fd73d4db0906c2a9d9e66934877aceb1cd659d13ddc908f76fd92719b5e2bf59475418"
+
+[update]
+[update.modrinth]
+mod-id = "1HwCh5vX"
+version = "REXdhwCd"

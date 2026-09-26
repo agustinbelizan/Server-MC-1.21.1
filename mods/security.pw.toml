@@ -1,0 +1,13 @@
+name = "Security"
+filename = "security-1.21.1-0.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aQ9C6fOt/versions/zZtXpMTo/security-1.21.1-0.1.6.jar"
+hash-format = "sha512"
+hash = "ceb787ec0c3f2f6a580f1148d939a16aa0461eb5a93bf606aa9141ae9cfaecb86aba417409deb0a2eb2bd3ccf3a1c64d374a44417696034b5040716aa86f8177"
+
+[update]
+[update.modrinth]
+mod-id = "aQ9C6fOt"
+version = "zZtXpMTo"

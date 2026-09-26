@@ -1,0 +1,13 @@
+name = "Immersive Machinery"
+filename = "immersive_machinery-0.2.1+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kGP3J2TW/versions/CEp6DgOD/immersive_machinery-0.2.1%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "ad4464b19e74ecc75eb693c2ac0f482025f4558a2a2479d1faecdb905e19dbe963c7d4bb0716aff53d7b8624999d1002dd8f82f7953436b244584ad1cd4a14a7"
+
+[update]
+[update.modrinth]
+mod-id = "kGP3J2TW"
+version = "CEp6DgOD"

@@ -1,0 +1,13 @@
+name = "Hydro Upgrade"
+filename = "hydroupgradeproject-0.1.5.mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ENEwpri7/versions/JdzwXij8/hydroupgradeproject-0.1.5.mc1.21.1.jar"
+hash-format = "sha512"
+hash = "2af340bb0e94afd2d92b876e78ef9b1fa49cb920344f7f3b3226c14c5d32264a001d32541460e1a1af5338115bd96be3eb060b45c9d02567b02a8d21824c80ca"
+
+[update]
+[update.modrinth]
+mod-id = "ENEwpri7"
+version = "JdzwXij8"

@@ -1,0 +1,13 @@
+name = "Immersive Pillagers"
+filename = "immersive_pillagers-fabric-0.1.4+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oFiblXl3/versions/TmkbhXlT/immersive_pillagers-fabric-0.1.4%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "2facc2d9c98fa53052102cdd6d92a8a3bc739dc1987b3903301e3119edb8def431d6f2e55762d1ea4bba4163fb4e752ef9651344ba50789e8896d2b529db7fc7"
+
+[update]
+[update.modrinth]
+mod-id = "oFiblXl3"
+version = "TmkbhXlT"

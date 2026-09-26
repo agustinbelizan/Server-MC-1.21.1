@@ -1,0 +1,13 @@
+name = "Lava Particles | More"
+filename = "lavalive-fabric-1.21.1-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ynAer77T/versions/CAunIHGL/lavalive-fabric-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "dd4f098598d4c9816ecd04666cee9bf45866a91106723ffb9d8ae2234cc8426567d98df9a1a729ba8f419ddac4018ec36fbf86f6639f12bf0b2924a4bb9fc495"
+
+[update]
+[update.modrinth]
+mod-id = "ynAer77T"
+version = "CAunIHGL"

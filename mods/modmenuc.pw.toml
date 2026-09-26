@@ -1,0 +1,13 @@
+name = "Mod Menu Command"
+filename = "mmc-2.1+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XKoaSG4i/versions/j4e8tjWH/mmc-2.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "dd5e4e7360ecb56882aed4a10528dba348ae826a13f738b9a99002a9ee724a877229fd3be20d35bbe2da3272df4523a9566d434fcba92eb9febd0d5f2df93924"
+
+[update]
+[update.modrinth]
+mod-id = "XKoaSG4i"
+version = "j4e8tjWH"

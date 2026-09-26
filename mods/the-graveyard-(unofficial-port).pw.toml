@@ -1,0 +1,13 @@
+name = "The Graveyard (Unofficial Port)"
+filename = "graveyard-fabric-2.6.2 Fabric 1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hEydzhit/versions/4kI0K7wn/graveyard-fabric-2.6.2%20Fabric%201.21.1.jar"
+hash-format = "sha512"
+hash = "48189d21a92ec205bb5a3e390b7d26e84c33ed0e2394bb746d8932a2c67ece60b54a86444d3802927edd32eb57a742489c7106bbc1b90095d5d185eb04776009"
+
+[update]
+[update.modrinth]
+mod-id = "hEydzhit"
+version = "4kI0K7wn"

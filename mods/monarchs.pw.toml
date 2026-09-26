@@ -1,0 +1,13 @@
+name = "Monarchs"
+filename = "monarchs-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ARsp8FWC/versions/k20EkreA/monarchs-1.0.0.jar"
+hash-format = "sha512"
+hash = "f5d76b1ebce233584d16ebc69de48f3f8a073dc1e6f283a8ff0e8270908ea1fa9e00eac236022191311a223513a7122cf78eef113880254b874a38e5692e2ab3"
+
+[update]
+[update.modrinth]
+mod-id = "ARsp8FWC"
+version = "k20EkreA"

@@ -1,0 +1,13 @@
+name = "Immersive Gateways"
+filename = "immersive_gateways-fabric-0.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3hZmBMYA/versions/bPKzMRud/immersive_gateways-fabric-0.0.7.jar"
+hash-format = "sha512"
+hash = "718f57e1c947f94899b0f77ae1f21bfaa422d2762d6bb50b2c252c1e24e9ea758b5145d5102cdedc2f1edc567b73873691bdf8cc1b0a5aed234647d6194c89c3"
+
+[update]
+[update.modrinth]
+mod-id = "3hZmBMYA"
+version = "bPKzMRud"

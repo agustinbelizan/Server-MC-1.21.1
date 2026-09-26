@@ -1,0 +1,13 @@
+name = "Crafty Cuisine - Vanilla Inspired Food"
+filename = "craftycuisine-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/32fgIQw1/versions/aEzOxVbA/craftycuisine-2.0.0.jar"
+hash-format = "sha512"
+hash = "0f2a0f90d595c9e6557a543b5175c7e962526ea3ecf8ac443a5c9c6f28fd95475637b255702aa301b3cf0341a72c4f181e65f7c40bee88be3163c724d3dab05b"
+
+[update]
+[update.modrinth]
+mod-id = "32fgIQw1"
+version = "aEzOxVbA"
