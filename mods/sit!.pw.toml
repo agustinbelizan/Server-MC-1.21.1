@@ -1,6 +1,6 @@
 name = "Sit!"
 filename = "sit!-1.2.5.1+1.21-1.21.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/EsYqsGV4/versions/wstK3UaY/sit%21-1.2.5.1%2B1.21-1.21.1.jar"

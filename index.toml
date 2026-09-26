@@ -31,9 +31,8 @@ hash = "fb5deb56a77c8a30f9fbc0c54ba5768bdb6d84c9b94d6de36edfb3076bff94b0"
 metafile = true
 
 [[files]]
-file = "mods/back-to-greece.pw.toml"
-hash = "c1b8d67b470f92d450b288076c7c1b2a247439c91d75f68b47bb3188d03792a4"
-metafile = true
+file = "mods/backtogreece-fabric-0.4-1.21-1.21.1.jar"
+hash = "b0ae76408a574f35e8c1016b4fc817159e67733960ad5f6f6e78d4927c380c7c"
 
 [[files]]
 file = "mods/balm.pw.toml"
@@ -287,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "fd56a0cff0fa0172c35309f52e7bf76731abde661b03977bc8380bba687cbe98"
+hash = "b4d250cb6ee3e120d88d70efdf3abb1436d8b7bc49ce70805836316b58656b8a"
 metafile = true
 
 [[files]]
@@ -416,9 +415,8 @@ hash = "6d79b6bf55ac384e1b5bd3121f978c6fa469afc78a53dd5eedc3e016d70fd396"
 metafile = true
 
 [[files]]
-file = "mods/physics-iteam-drop.pw.toml"
-hash = "11799c1e8870616966fa58724c72caa8213bff0615ab476636bbdfbbb13f579b"
-metafile = true
+file = "mods/physics item drop fabric 1.21.1-1.0.0.jar"
+hash = "fdec8d0818f63c06aa6551d694047a7304265c99460fd1565ed4566f0e0f421f"
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
@@ -492,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/sit!.pw.toml"
-hash = "6d29747fd2ecdee152aab7899cec6103207480f2e2aed4baebd279340a35db7a"
+hash = "a375b945d21e693470cf646c6ccf37d2d3475a6d4fd4ada6fb710d5be4bcaa52"
 metafile = true
 
 [[files]]
@@ -587,17 +585,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a00158a640285545d232f5f9e82e5102ea4a9246f7897b4ff9f3f7544d5f288a"
+hash = "e1dcf3f9feab68622a91afc0469fede07d814ba6f1b48313140110e88f71753f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "fb245abdce152a31eae431d6d7340c69ad899ca35b6f71e12d840cc15e1e861a"
+hash = "50b71e9a606967fe71966c5ab2916c6295b0ed1f8f20cef53e2aa5bcb45c1092"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
+hash = "2ab187a31adbb396080cfd4b567cf22be203255228999c36eb6060e693b9b5fd"
 metafile = true
 
 [[files]]
