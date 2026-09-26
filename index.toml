@@ -54,11 +54,6 @@ hash = "c45c868d7e87adcf82845cbae6bed0fd7d83a56df365f38262e6d322e5596d08"
 metafile = true
 
 [[files]]
-file = "mods/betterend.pw.toml"
-hash = "f15c8cd06fb1e7ececdb01942d2b86a60a0eebaf9d88f9c3defda77c0a115496"
-metafile = true
-
-[[files]]
 file = "mods/betternether.pw.toml"
 hash = "2cf79d151d64ae6a26e037bc883c457eaec6089685df02c7474a1d130f6daaa7"
 metafile = true
