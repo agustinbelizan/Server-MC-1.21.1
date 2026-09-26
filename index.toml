@@ -49,16 +49,6 @@ hash = "2195df15cde85a2ec76bb9abec09597efc304e3fd1bca08fd4027ba053d86661"
 metafile = true
 
 [[files]]
-file = "mods/betternether.pw.toml"
-hash = "2cf79d151d64ae6a26e037bc883c457eaec6089685df02c7474a1d130f6daaa7"
-metafile = true
-
-[[files]]
-file = "mods/biomes-o-plenty.pw.toml"
-hash = "1e4faa76a8e5471099a6e33406679d00c0276c571890b6cfa4b8f5605fa6ab74"
-metafile = true
-
-[[files]]
 file = "mods/blur-plus.pw.toml"
 hash = "8e4e965d925ec5074a480e3d02ac522cd9b11fe72372a80654a65454128e9f6b"
 metafile = true
@@ -500,11 +490,6 @@ metafile = true
 [[files]]
 file = "mods/terralith-restoned.pw.toml"
 hash = "abde622f6570b0b4c5ba50c6f329c174d3f8f82de3cd29523c0064b0f9d9987c"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "66e1ed3e329e3ffa72a59acf74fae153157e6fb7d836afedb687b61ec2d8113a"
 metafile = true
 
 [[files]]
