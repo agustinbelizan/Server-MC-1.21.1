@@ -1,6 +1,6 @@
 name = "Hydro Upgrade"
 filename = "hydroupgradeproject-0.1.5.mc1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/ENEwpri7/versions/JdzwXij8/hydroupgradeproject-0.1.5.mc1.21.1.jar"

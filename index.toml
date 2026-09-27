@@ -49,6 +49,11 @@ hash = "2195df15cde85a2ec76bb9abec09597efc304e3fd1bca08fd4027ba053d86661"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "1e4faa76a8e5471099a6e33406679d00c0276c571890b6cfa4b8f5605fa6ab74"
+metafile = true
+
+[[files]]
 file = "mods/blur-plus.pw.toml"
 hash = "8e4e965d925ec5074a480e3d02ac522cd9b11fe72372a80654a65454128e9f6b"
 metafile = true
@@ -109,6 +114,16 @@ hash = "9473554d1bd68148f23f4f0f09023cd44a85eed6b639c812eab7759110ac1e81"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "6c8d67793080840e305c3f000dee16b984615594ef958384815b8040d154c17d"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "38e09deae66c9d2955a857300b3308a3b3068f9695d226608074c28fa6ea2137"
+metafile = true
+
+[[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "c1f2d0a1537909b2b2c37aa8576af52f21b6f52ee18048310e48ab7169b87f57"
 metafile = true
@@ -126,6 +141,16 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "7a7f5673b6e33eebaed00c0c453fc41d11c7474eb320c3ce8736d415fcfe2682"
+metafile = true
+
+[[files]]
+file = "mods/farmers-cutting-biomes-o-plenty.pw.toml"
+hash = "4862a523c1dc40898737edfeb11e49095fb8b3ccda0ea166f5d92cee39287240"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "f2dd3bcc1e38d91445004d43d84ed98f1e6c4c7284f0b91a80ca01129740044a"
 metafile = true
 
 [[files]]
@@ -160,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/hydro-upgrade.pw.toml"
-hash = "2453082aaf953ee41c0f7d05374bb87c8ca3764e205dfcbfb371421c9bb0f13d"
+hash = "2230db00d6504de2d16574b0ad2ad59348b5ad00340aeb4b1b33f30e2cb432aa"
 metafile = true
 
 [[files]]
@@ -370,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/oritech.pw.toml"
-hash = "44ec48148845a0246c1983ddd3bebbecc378709e0663d16139d80e749c7f3fe8"
+hash = "19d3639833dc312541cd3cb45a96f2b359ab3b9c2602e4b63fbe62eab64d5ffb"
 metafile = true
 
 [[files]]
@@ -480,6 +505,11 @@ metafile = true
 [[files]]
 file = "mods/tabtweaks.pw.toml"
 hash = "7402d47044e86ece17340f7ac5b8e02f5e6370f3551d3abb655d7a0ee0d5225f"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "f1bfac1c5060b9e0ec9166de25bce8305d16dee48fb31583380567c37ee6b349"
 metafile = true
 
 [[files]]
