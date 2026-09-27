@@ -209,11 +209,6 @@ hash = "566a42c7fb0760a66d1606ac0035ba24ec9e55b42c8c0b504f136e5883304101"
 metafile = true
 
 [[files]]
-file = "mods/immersive-fluids.pw.toml"
-hash = "d9222e50a45932b669a05ce8e2f30b9336a9cb9061695212f1b2c9c88defbefc"
-metafile = true
-
-[[files]]
 file = "mods/immersive-furniture.pw.toml"
 hash = "227c512fd3445a685cafec10e33e0da7d77f0c38a10271c6ef71b7ae45fd24e6"
 metafile = true
