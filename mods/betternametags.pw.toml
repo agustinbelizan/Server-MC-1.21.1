@@ -1,0 +1,13 @@
+name = "BetterNameTags"
+filename = "betternametags-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FDPMJkoi/versions/JBqT0YPE/betternametags-1.21.1.jar"
+hash-format = "sha512"
+hash = "a5ad4d1f778219d09e8fa576e749389926ed2d09c44f5715eac51c88aef2f7483aca451f45d33221f56eb89d7827694308b78ad3708ba8977e1267a3cf76776a"
+
+[update]
+[update.modrinth]
+mod-id = "FDPMJkoi"
+version = "JBqT0YPE"

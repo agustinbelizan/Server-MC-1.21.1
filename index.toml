@@ -49,6 +49,11 @@ hash = "2195df15cde85a2ec76bb9abec09597efc304e3fd1bca08fd4027ba053d86661"
 metafile = true
 
 [[files]]
+file = "mods/betternametags.pw.toml"
+hash = "7f3dbf5cbaf4af19ba2d5e2a7626cea78c85370a3e01136da22e7161d1a503fa"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "1e4faa76a8e5471099a6e33406679d00c0276c571890b6cfa4b8f5605fa6ab74"
 metafile = true
@@ -349,11 +354,6 @@ hash = "d3ffa6e8c5a58a7d02a2a722f243e087b826af71f6c34a15ddf55dff8f9f91c0"
 metafile = true
 
 [[files]]
-file = "mods/minihud.pw.toml"
-hash = "8ef7d55010287b46fce10e263cccf91fa345a1272428f9c74557060c5a21f735"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "62f164a7b7c8731436389dc1855862d1eb1fa73fd76407b0fb8d129b7b6f00a9"
 metafile = true
@@ -650,6 +650,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/shinier-tools.pw.toml"
 hash = "bac718766b6594dcb00d2a5e78ca10ff434ff29257a2fb21d78c02e534863122"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "5b03a0c2cc14b57cd964ab218f37c98a46ce3d4cecf0c6501f6b543b5b38514a"
 metafile = true
 
 [[files]]
